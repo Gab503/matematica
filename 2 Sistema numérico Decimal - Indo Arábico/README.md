@@ -1,4 +1,4 @@
-A base de nosso sistema numérico, é uma base decimal, uma base de 10 algarismos ( 0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
+A base de nosso sistema numérico, é uma base decimal, uma base de 10 algarismos ( 0, 1, 2, 3, 4, 5, 6, 7, 8, 9). Com esses algarismo podemos obter qualquer número. 
 
 * O nosso sistema numérico é Ordinário. Significa que a ordem é importante. Exemplo 123 ≠ 321
 
