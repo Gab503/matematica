@@ -30,4 +30,18 @@ Mas se prefirir pode realizar o cálculo com 140, que ficaria 140 - 80 ( por que
 
 ## Propriedades da Subtração:
 
+1. A subtração não é Comutativa. A - B ≠ B - A.
+
+Exemplo: 5 - 3 = 2 | 3 - 5 = - 2
+
+2. A subtração não é Associativa. A - (B - C) ≠ (A - B) - C.
+
+Exemplo: 12 - (3 - 4)  = 12 - (-1) = 12 + 1 = 13 | (12 - 3) - 4 = 9 - 4 = 5
+
+3. Elemento neutro. 0 - B = -B | B - 0 = 0
+
+4. Elemento oposto. A - A = 0.
+
+Exemplo: -10 + 10 = 0 | -5 + 5 = 0
+
 
