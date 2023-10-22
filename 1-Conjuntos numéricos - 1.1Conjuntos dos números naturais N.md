@@ -1,14 +1,1 @@
-# Conjuntos numéricos: 
-Conjunto dos números naturais, inteiros, racionais, irracionais, reais e complexos.
-
-## Conjunto dos números Naturais:  
-
-* Símbolo: N
-  
-Surgiram com a necessidade natural de contar, por isso que os números naturais vão representar "quantidade".
-
-    N = { 0, 1, 2, 3, 4, 5,...}
-    N* = {1, 2 ,3, 4, 5,...}
-
-O asteristico, simplesmente significa sem o zero. 
 
